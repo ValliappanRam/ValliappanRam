@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ValliappanRam
-- 👀 I’m interested in AI and Data Analytics
-- 🌱 I’m currently learning Python Core Development
+- 👀 I’m interested in Data Analytics, Business Intelligence
+- 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on project for Analytics
-- 📫 How to reach me ... aravind.valliappan@gmail.com
+- 📫 How to reach me ... valliappanr.ramanathan@gmail.com
 
 <!---
 ValliappanRam/ValliappanRam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
