@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ValliappanRam
-- 👀 I’m interested in Data Analytics, Business Intelligence
-- 🌱 I’m currently learning Azure
+- 👀 I’m interested in Data Analytics, Data Engineering, Business Intelligence
+- 🌱 I’m currently learning Python data wrangling for project
 - 💞️ I’m looking to collaborate on project for Analytics
 - 📫 How to reach me ... valliappanr.ramanathan@gmail.com
 
